@@ -24,7 +24,7 @@ I am interested in collaborating in "human impact" data science projects.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
 <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/langfr-440px-Tensorflow_logo.svg.png" alt="Tensorflow" height="50" />  
-<img style="margin: 10px" src="https://www.r-project.org/Rlogo.png" alt="R" height="50" />  
+
   
  
 </div>
