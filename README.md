@@ -1,4 +1,4 @@
-[<img src="docs/data_science_banner.jpg"/>]
+
 
 # Hello, I am Emanuel Afessa
 
@@ -10,7 +10,7 @@
 
 I am a data scientist curious and fascinated by all data science projects. However, my main experience focuses on deep learning algorithms and computer vision. 
 
-I am intrested in collaborating in "human impact" data science projects.
+I am interested in collaborating in "human impact" data science projects.
 
 
 
