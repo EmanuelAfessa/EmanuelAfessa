@@ -12,7 +12,13 @@ I am a data scientist curious and fascinated by all data science projects. Howev
 
 I am interested in collaborating in "human impact" data science projects.
 
+## My main projects
 
+I have worked in many data science projects. I have made public several repositories in order to share main points I learned. The projects I share reflect the diversity of use cases and problems we attempt to solve in data science and particularly deep learning :
+* Classification 
+* Generation
+* Regression
+* Clustering
 
 ## 🔧 Languages and Tools
 
