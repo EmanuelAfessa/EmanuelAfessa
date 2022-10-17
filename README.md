@@ -22,7 +22,7 @@ The following repositories fall in the umbrella of supervised learning :
 
 The following projects are in the unsupervised learning category : 
 * Generation
-* Clustering
+* A Clustering algorithm for unsupervised segmentation of sentinel2 satellite images presented in [Clustering in computer vision tasks](https://github.com/EmanuelAfessa/Seentinel2_analysis)
 
 ## 🔧 Languages and Tools
 
