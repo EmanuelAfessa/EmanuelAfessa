@@ -12,7 +12,7 @@ I am a data scientist curious and fascinated by all data science projects. Howev
 
 I am interested in collaborating in "human impact" data science projects.
 
-
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ## 🔧 Languages and Tools
 
