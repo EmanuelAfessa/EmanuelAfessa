@@ -8,15 +8,15 @@
 
 ## About me
 
-I am a data scientist curious and fascinated by all data science projects. However, my main experience focuses on deep learning algorithms and computer vision. 
+I am a data scientist curious and fascinated by all data science projects. However, my main experience focuses on **deep learning algorithms** and **computer vision**. 
 
 I am interested in collaborating in "human impact" data science projects.
 
 ## My main projects
 
- I have made public several data science repositories in order to share main points I learned. The projects I share reflect the diversity of use cases and problems we attempt to solve in data science and particularly deep learning.
+ I have made public several data science repositories to share my knowledge.
 
-The following repositories fall in the umbrella of supervised learning : 
+Amongst my repositories, the following fall in the umbrella of supervised learning : 
 * A **Classification algorithm**
 * A **Regression algorithm** 
 
@@ -28,7 +28,7 @@ The following projects are in the unsupervised learning category :
 
 
 <div align="center">  
-<img style="margin: 10px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="50" /> 
+<img style="margin: 10px" src="https://fr.wikipedia.org/wiki/SQLite#/media/Fichier:SQLite370.svg" alt="SQLite" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
