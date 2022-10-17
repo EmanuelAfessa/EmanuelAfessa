@@ -20,7 +20,7 @@ I am interested in collaborating in "human impact" data science projects.
 
 The following projects are in the unsupervised learning category : 
 * A **Generation algorithm**
-* A **Clustering algorithm** for unsupervised segmentation of sentinel2 satellite. Access the repo [here] (https://github.com/EmanuelAfessa/Seentinel2_analysis)
+* A **Clustering algorithm** for unsupervised segmentation of sentinel2 satellite. Access the repo [here](https://github.com/EmanuelAfessa/Seentinel2_analysis)
 
 ## 🔧 Languages and Tools
 
