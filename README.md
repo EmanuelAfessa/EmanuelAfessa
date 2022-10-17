@@ -14,10 +14,14 @@ I am interested in collaborating in "human impact" data science projects.
 
 ## My main projects
 
- I have made public several data science repositories in order to share main points I learned. The projects I share reflect the diversity of use cases and problems we attempt to solve in data science and particularly deep learning :
+ I have made public several data science repositories in order to share main points I learned. The projects I share reflect the diversity of use cases and problems we attempt to solve in data science and particularly deep learning.
+
+The following repositories fall in the umbrella of supervised learning : 
 * Classification 
-* Generation
 * Regression
+
+The following projects are in the unsupervised learning category : 
+* Generation
 * Clustering
 
 ## 🔧 Languages and Tools
