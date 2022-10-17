@@ -17,12 +17,12 @@ I am interested in collaborating in "human impact" data science projects.
  I have made public several data science repositories in order to share main points I learned. The projects I share reflect the diversity of use cases and problems we attempt to solve in data science and particularly deep learning.
 
 The following repositories fall in the umbrella of supervised learning : 
-* Classification 
-* Regression
+* A **Classification algorithm**
+* A **Regression algorithm** 
 
 The following projects are in the unsupervised learning category : 
-* Generation
-* A Clustering algorithm for unsupervised segmentation of sentinel2 satellite images presented in [Clustering in computer vision tasks](https://github.com/EmanuelAfessa/Seentinel2_analysis)
+* A **Generation algorithm**
+* A **Clustering algorithm** for unsupervised segmentation of sentinel2 satellite images presented in the repo [Clustering in computer vision tasks](https://github.com/EmanuelAfessa/Seentinel2_analysis)
 
 ## 🔧 Languages and Tools
 
