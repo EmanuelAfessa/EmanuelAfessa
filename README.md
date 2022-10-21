@@ -6,7 +6,7 @@
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-## 🔭About me
+## About me
 
 I am a data scientist curious and fascinated by all data science projects. However, my main experience focuses on **deep learning algorithms** and **computer vision**.
 I am interested in collaborating in "positive impact" data science projects.
