@@ -19,7 +19,7 @@ I am interested in collaborating in "positive impact" data science projects.
 
 The following projects are in the unsupervised learning category : 
 * A **Generation algorithm**
-* A **Clustering algorithm** for unsupervised segmentation of sentinel2 satellite. Access the repo [here](https://github.com/EmanuelAfessa/Seentinel2_analysis)
+* A **Clustering algorithm** on sentinel2 satellite image data. Access the repo [here](https://github.com/EmanuelAfessa/Clustering_Satellite_Imagery)
 
 ## 🔧 Languages and Tools
 
