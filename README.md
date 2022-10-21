@@ -6,13 +6,12 @@
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-## About me
+## 🔭About me
 
-I am a data scientist curious and fascinated by all data science projects. However, my main experience focuses on **deep learning algorithms** and **computer vision**. 
+I am a data scientist curious and fascinated by all data science projects. However, my main experience focuses on **deep learning algorithms** and **computer vision**.
+I am interested in collaborating in "positive impact" data science projects.
 
-I am interested in collaborating in "human impact" data science projects.
-
-## My main projects
+## ⚡ My main projects
 
  I have made public several data science repositories to share my knowledge.Amongst my repositories, the following fall in the umbrella of supervised learning : 
 * A **Classification algorithm**
