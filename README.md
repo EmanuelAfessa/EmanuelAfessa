@@ -13,7 +13,7 @@ I am interested in collaborating in "positive impact" data science projects.
 
 ## ⚡ My main projects in a nutshell
 
- I have made public several data science repositories to share my knowledge.Amongst my repositories, the following fall in the umbrella of supervised learning : 
+ I have made public several data science repositories to share my knowledge. The following fall in the umbrella of supervised learning : 
 * A **Classification algorithm**
 * A **Regression algorithm** 
 
