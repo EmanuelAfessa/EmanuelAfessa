@@ -18,7 +18,7 @@ I am interested in collaborating in "positive impact" data science projects.
 * A **Regression algorithm** 
 
 The following projects are in the unsupervised learning category : 
-* A **Generation algorithm**
+* **Generating realistic MNIST handwritting images with GANs (generative adversarial networks)**
 * A **Clustering algorithm for Sentinel2 satellite image data**. Access the repo [here](https://github.com/EmanuelAfessa/Clustering_Satellite_Imagery)
 
 ## 🔧 Languages and Tools
