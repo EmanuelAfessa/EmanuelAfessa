@@ -11,7 +11,7 @@
 I am a data scientist curious and fascinated by all data science projects. However, my main experience focuses on **deep learning algorithms** and **computer vision**.
 I am interested in collaborating in "positive impact" data science projects.
 
-## ⚡ My main Artifcial Intelligence based projects
+## ⚡ My main artifcial intelligence based projects
 
  I have made public several data science repositories to share my knowledge. The following fall in the umbrella of supervised learning : 
 * A **Classification algorithm**
