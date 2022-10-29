@@ -14,7 +14,7 @@ I am interested in collaborating in "positive impact" data science projects.
 ## ⚡ My main artifcial intelligence based projects
 
  I have made public several data science repositories to share my knowledge. The following fall in the umbrella of supervised learning : 
-* Landcover **classification** of Sentinel2 image data using machine learning. Access the [classification_repository](https://github.com/EmanuelAfessa/DS_P03_classification).
+* Landcover **classification** of Sentinel2 satellite image data using machine learning. Access the [classification_repository](https://github.com/EmanuelAfessa/DS_P03_classification).
 * Accumulated daily rainfall **forecasting** on the D day on observation ground stations. Access the [regression_repository](https://github.com/EmanuelAfessa/DS_P04_Regression).
 
 The following projects are in the unsupervised learning category : 
