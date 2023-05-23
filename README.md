@@ -7,7 +7,7 @@
 </a>
 
 ## About me
-I am a data scientist working on ethical and social projects  with Artificial Intelligence.Discover my articles and projects
+I am a data scientist working on ethical and social projects  with Artificial Intelligence. Discover my articles and projects
 
 ## ⚡ My main data science projects
 I list below some of my contributions to github. These repositories are pinned and easily accessible :
