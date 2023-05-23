@@ -14,7 +14,7 @@ I list below some of my contributions to github. These repositories are pinned a
 * Setting up an open source MLOPS pipeline
 * Advanced preprocessing and data visualisation for machine learning
 * Tuning a deep learning regressor
-* Deploying a amchine learning model with flask API
+* Deploying a machine learning model with flask API
 * Training an image classifier 
 
 
