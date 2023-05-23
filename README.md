@@ -7,11 +7,15 @@
 </a>
 
 ## About me
-
-
+I am a data scientist working on ethical and social projects  with Artificial Intelligence.Discover my articles and projects
 
 ## ⚡ My main data science projects
-
+I list below some of my contributions to github. These repositories are pinned and easily accessible :
+* Setting up an open source MLOPS pipeline
+* Advanced preprocessing and data visualisation for machine learning
+* Tuning a deep learning regressor
+* Deploying a amchine learning model with flask API
+* Training an image classifier 
 
 
 ## 🔧 Languages and Tools
