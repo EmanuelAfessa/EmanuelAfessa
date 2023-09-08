@@ -10,7 +10,9 @@
 I am a data scientist working on ethical and social projects  with Artificial Intelligence. Discover my articles and projects
 
 ## ⚡ My main data science projects
-I worked mainly on Deep Learning and Computer Vision projects. You can explore my public repositories on machine learning for remote sensing 
+I worked mainly on Deep Learning and Computer Vision projects. You can explore my public repositories :
+* Deep learning for remote sensing
+* Unsupervised algorithms for remote sensing
 
 
 
