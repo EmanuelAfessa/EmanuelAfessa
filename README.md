@@ -13,6 +13,7 @@ I am a data scientist working on ethical and social projects  with Artificial I
 I worked mainly on Deep Learning and Computer Vision projects. You can explore my public repositories :
 * Deep learning for remote sensing
 * Unsupervised algorithms for remote sensing
+* Daily rainfall prediction with LSTM Neural network
 
 
 
