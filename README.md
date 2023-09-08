@@ -10,12 +10,8 @@
 I am a data scientist working on ethical and social projects  with Artificial Intelligence. Discover my articles and projects
 
 ## ⚡ My main data science projects
-I list below some of my contributions to github. These repositories are pinned and easily accessible :
-* Setting up an open source MLOPS pipeline
-* Advanced preprocessing and data visualisation for machine learning
-* Tuning a deep learning regressor
-* Deploying a machine learning model with flask API
-* Training a deep learning image classifier 
+I worked mainly on Deep Learning and Computer Vision projects. You can explore my public repositories on machine learning for remote sensing 
+
 
 
 ## 🔧 Languages and Tools
