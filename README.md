@@ -18,7 +18,7 @@ I am a data scientist working on ethical and social projects with Artificial In
 <a href="https://dagshub.com/emanuel.afessa" target="_blank">
   <img src=https://img.shields.io/badge/DagsHub-Link%20to%20DagsHub-red alt=dagshub style="margin-bottom: 5px;" />
 </a>
-h
+
 
 ## ⚡ My main data science projects
 I worked mainly on Deep Learning and Computer Vision projects. You can explore my public repositories :
