@@ -2,9 +2,6 @@
 
 # Hello, I am Emanuel Afessa
 
-<a href="https://fr.linkedin.com/in/emanuel-afessa-194a96162" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
 
 ## About me
 I am a data scientist working on ethical and social projects with Artificial Intelligence. 
