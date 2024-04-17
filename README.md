@@ -6,7 +6,7 @@
 ## About me
 I am a data scientist working on ethical and social projects with Artificial Intelligence. 
 
-## Where to find me 
+## Discover my profile and work 
 <a href="https://fr.linkedin.com/in/emanuel-afessa-194a96162" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -15,6 +15,10 @@ I am a data scientist working on ethical and social projects with Artificial In
   <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://dagshub.com/emanuel.afessa" target="_blank">
+  <img src=https://img.shields.io/badge/DagsHub-Link%20to%20DagsHub-red alt=dagshub style="margin-bottom: 5px;" />
+</a>
+h
 
 ## ⚡ My main data science projects
 I worked mainly on Deep Learning and Computer Vision projects. You can explore my public repositories :
