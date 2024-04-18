@@ -34,6 +34,7 @@ I worked mainly on Deep Learning and Computer Vision projects. You can explore m
 
 <div align="center">  
 <!---<img style="margin: 10px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="SQLite" height="50" /> --->
+<img style="margin: 10px" src=" https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
