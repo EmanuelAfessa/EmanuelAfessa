@@ -22,7 +22,7 @@ I am a data scientist working on ethical and social projects with Artificial In
 
 ## ⚡ My main data science projects
 I worked mainly on Deep Learning and Computer Vision projects. You can explore my public repositories :
-* Deep learning for remote sensing
+* [Deep learning for remote sensing](https://dagshub.com/emanuel.afessa/Seagrass_Satellite_Segmentation)
 * Unsupervised algorithms for remote sensing
 * Daily rainfall prediction with LSTM Neural network
 
