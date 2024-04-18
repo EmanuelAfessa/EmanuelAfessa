@@ -21,10 +21,11 @@ I am a data scientist working on ethical and social projects with Artificial In
 
 
 ## ⚡ My main data science projects
-I worked mainly on Deep Learning and Computer Vision projects. You can explore my public repositories :
-* [Deep learning for remote sensing](https://dagshub.com/emanuel.afessa/Seagrass_Satellite_Segmentation)
-* Unsupervised algorithms for remote sensing
-* Daily rainfall prediction with LSTM Neural network
+I worked mainly on Deep Learning and Computer Vision projects. You can explore my public repositories with trained models and experiment details on Dagshub:
+* [Leveraging open source MLOps for Satellite image segmentation](https://dagshub.com/emanuel.afessa/Seagrass_Satellite_Segmentation)
+* [Landcover classification for Sentinel2 satellite images](https://dagshub.com/emanuel.afessa/Landcover_Classification)
+* [Rainfall time series prediction](https://dagshub.com/emanuel.afessa/Rainfall_Timeseries_Prediction)
+* [Oxford pet dataset segmentation project](https://dagshub.com/emanuel.afessa/Animal_Image_Segmentation)
 
 
 
